@@ -11,7 +11,8 @@ There're multiple game modes selected at random:
 - Lines of text
   - with numbers
   - with percentages
-  - different colors 
+  - different colors
+  - different text
 - Symbols
   - mixed with other symbols
   - counting number of symbols of given color
