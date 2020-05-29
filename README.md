@@ -27,3 +27,6 @@ There're multiple game modes selected at random:
 4. Repeat
 
 
+## Disclaimer
+
+Please note that it's a prototype that was built in less than 4 hours
