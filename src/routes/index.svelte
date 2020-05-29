@@ -104,11 +104,9 @@
 </script>
 
 <style>
-  .debug {
+  .footer {
     position: fixed;
     bottom: 0;
-    background: black;
-    color: white;
   }
 
   .symbols {
@@ -170,4 +168,8 @@
   <button on:click|preventDefault={restart}>Play again</button>
 {/if}
 <!-- Debug -->
-<!-- <div class="debug">{currentStep} - {mode} - {correct} - {answer}</div> -->
+<!-- <div class="footer">{currentStep} - {mode} - {correct} - {answer}</div> -->
+
+<div class="footer">
+  <a href="https://github.com/phil-r/stars">Source code</a>
+</div>
